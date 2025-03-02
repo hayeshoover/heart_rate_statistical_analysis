@@ -1,0 +1,1060 @@
+Masindi_ID,hr,age,sex,reason,source
+1,100,70,F,Routine,Masindi
+5,74,50,F,New Concern,Masindi
+6,98,38,M,Routine,Masindi
+7,98,36,F,Routine,Masindi
+8,109,34,M,Routine,Masindi
+9,113,46,M,Routine,Masindi
+11,78,77,M,Routine,Masindi
+12,81,32,F,New Concern,Masindi
+13,80,30,M,Routine,Masindi
+14,118,60,F,Routine,Masindi
+15,87,88,M,Routine,Masindi
+16,63,75,F,Routine,Masindi
+17,79,35,F,Routine,Masindi
+18,102,48,F,Routine,Masindi
+19,117,22,F,Routine,Masindi
+20,73,28,F,Routine,Masindi
+21,85,32,M,Routine,Masindi
+22,112,36,F,Routine,Masindi
+23,72,67,M,Routine,Masindi
+24,90,38,M,Routine,Masindi
+25,110,36,F,Routine,Masindi
+26,111,39,F,Routine,Masindi
+27,75,20,F,Routine,Masindi
+29,63,23,F,Routine,Masindi
+30,62,40,F,Routine,Masindi
+31,80,75,M,Routine,Masindi
+32,54,86,M,Routine,Masindi
+33,91,28,F,Routine,Masindi
+34,102,47,M,Routine,Masindi
+35,78,35,F,Routine,Masindi
+36,106,24,F,Routine,Masindi
+37,88,38,F,Routine,Masindi
+38,75,18,F,Routine,Masindi
+39,64,31,M,Routine,Masindi
+40,87,49,M,Routine,Masindi
+41,78,29,M,Routine,Masindi
+42,87,20,M,Routine,Masindi
+43,114,48,M,Routine,Masindi
+44,108,20,F,Routine,Masindi
+45,110,67,F,Routine,Masindi
+46,83,26,M,Routine,Masindi
+47,67,34,M,Routine,Masindi
+48,91,28,F,Routine,Masindi
+49,128,18,F,Routine,Masindi
+50,107,22,F,Routine,Masindi
+51,71,35,M,Routine,Masindi
+52,115,32,M,Routine,Masindi
+53,90,38,M,Routine,Masindi
+54,74,45,M,Routine,Masindi
+55,92,33,M,Routine,Masindi
+56,79,59,F,Routine,Masindi
+57,78,59,M,Routine,Masindi
+58,96,83,F,Routine,Masindi
+59,104,34,M,Routine,Masindi
+60,95,36,F,Routine,Masindi
+61,88,42,M,Routine,Masindi
+62,110,31,F,Routine,Masindi
+63,101,24,F,Routine,Masindi
+64,93,27,M,Routine,Masindi
+65,125,24,F,Routine,Masindi
+66,60,28,M,Routine,Masindi
+67,83,40,F,Routine,Masindi
+68,107,85,M,Routine,Masindi
+69,102,43,M,Routine,Masindi
+70,104,43,M,Routine,Masindi
+71,78,28,F,Routine,Masindi
+72,93,27,F,Routine,Masindi
+73,114,32,F,Routine,Masindi
+74,84,28,F,Routine,Masindi
+75,75,34,F,Routine,Masindi
+76,80,28,M,Routine,Masindi
+77,93,45,F,Routine,Masindi
+78,92,27,F,Routine,Masindi
+79,98,48,F,Routine,Masindi
+80,91,60,F,Routine,Masindi
+81,87,46,M,Routine,Masindi
+82,87,46,F,Routine,Masindi
+83,83,43,M,Routine,Masindi
+84,76,72,F,Routine,Masindi
+85,91,24,F,Routine,Masindi
+86,91,35,F,Routine,Masindi
+87,101,75,M,Routine,Masindi
+88,110,34,F,Routine,Masindi
+89,74,72,F,Routine,Masindi
+90,94,36,F,Routine,Masindi
+91,91,56,F,Routine,Masindi
+92,81,79,M,Routine,Masindi
+93,78,47,M,Routine,Masindi
+94,97,26,F,Routine,Masindi
+95,98,33,F,Routine,Masindi
+96,88,32,F,Routine,Masindi
+97,67,49,F,Routine,Masindi
+98,83,23,F,Routine,Masindi
+99,79,45,F,Routine,Masindi
+100,71,27,F,Routine,Masindi
+101,95,74,F,Routine,Masindi
+102,69,38,M,Routine,Masindi
+103,89,40,F,Routine,Masindi
+104,77,28,M,Routine,Masindi
+105,77,26,F,Routine,Masindi
+106,118,31,F,Routine,Masindi
+107,74,32,F,Routine,Masindi
+108,79,35,F,Routine,Masindi
+109,102,50,F,Routine,Masindi
+110,79,42,F,Routine,Masindi
+111,61,50,M,Routine,Masindi
+112,43,83,F,Routine,Masindi
+113,75,48,M,Routine,Masindi
+114,90,46,F,Routine,Masindi
+115,65,25,M,Routine,Masindi
+116,69,22,F,Routine,Masindi
+117,109,24,F,Routine,Masindi
+118,65,38,F,Routine,Masindi
+119,105,42,F,Routine,Masindi
+120,91,32,M,Routine,Masindi
+121,87,83,M,Routine,Masindi
+122,77,28,M,Routine,Masindi
+123,74,29,M,New Concern,Masindi
+124,75,56,M,Routine,Masindi
+125,90,40,M,Routine,Masindi
+126,83,38,F,Routine,Masindi
+127,89,24,F,Routine,Masindi
+128,84,42,M,New Concern,Masindi
+129,80,29,M,Routine,Masindi
+130,68,21,F,New Concern,Masindi
+131,114,25,F,Routine,Masindi
+132,99,25,F,Routine,Masindi
+133,66,71,M,Routine,Masindi
+134,85,39,F,New Concern,Masindi
+135,77,29,M,Routine,Masindi
+136,60,42,M,Routine,Masindi
+137,58,60,F,Routine,Masindi
+138,83,88,M,Routine,Masindi
+139,93,36,F,Routine,Masindi
+140,80,21,F,Routine,Masindi
+141,92,20,F,Routine,Masindi
+142,85,50,F,New Concern,Masindi
+143,97,24,F,Routine,Masindi
+144,61,42,M,New Concern,Masindi
+145,88,39,F,Routine,Masindi
+146,80,54,M,New Concern,Masindi
+147,93,33,F,New Concern,Masindi
+148,93,60,F,New Concern,Masindi
+149,92,29,F,Routine,Masindi
+150,121,24,F,New Concern,Masindi
+151,81,66,F,Routine,Masindi
+152,69,25,M,New Concern,Masindi
+153,89,32,F,New Concern,Masindi
+154,70,63,M,Routine,Masindi
+155,91,59,F,Routine,Masindi
+156,70,25,F,Routine,Masindi
+157,101,35,M,New Concern,Masindi
+158,87,28,F,New Concern,Masindi
+159,67,30,M,New Concern,Masindi
+160,81,50,F,New Concern,Masindi
+161,88,26,F,New Concern,Masindi
+162,73,30,M,New Concern,Masindi
+163,92,38,F,New Concern,Masindi
+164,72,39,M,New Concern,Masindi
+165,65,45,M,New Concern,Masindi
+166,71,24,M,New Concern,Masindi
+167,96,28,F,New Concern,Masindi
+168,73,42,F,New Concern,Masindi
+169,79,21,M,New Concern,Masindi
+170,89,74,F,Routine,Masindi
+171,68,52,F,Routine,Masindi
+172,67,42,M,New Concern,Masindi
+173,83,30,F,Routine,Masindi
+174,96,38,F,Routine,Masindi
+175,90,33,F,New Concern,Masindi
+176,61,31,M,New Concern,Masindi
+177,74,67,M,New Concern,Masindi
+178,105,22,F,New Concern,Masindi
+179,74,24,F,New Concern,Masindi
+180,73,45,M,New Concern,Masindi
+181,110,20,F,New Concern,Masindi
+182,93,24,F,Routine,Masindi
+183,82,100,F,New Concern,Masindi
+184,79,30,F,New Concern,Masindi
+185,69,30,F,New Concern,Masindi
+186,84,20,F,New Concern,Masindi
+187,98,25,F,Routine,Masindi
+188,72,25,F,New Concern,Masindi
+189,58,57,F,New Concern,Masindi
+190,90,49,M,New Concern,Masindi
+191,83,23,F,New Concern,Masindi
+192,68,21,F,Routine,Masindi
+193,99,22,F,Routine,Masindi
+194,91,37,M,New Concern,Masindi
+195,81,36,M,New Concern,Masindi
+196,83,28,F,Routine,Masindi
+197,105,75,F,New Concern,Masindi
+198,69,20,M,New Concern,Masindi
+199,78,24,F,New Concern,Masindi
+200,72,34,F,New Concern,Masindi
+201,78,35,M,New Concern,Masindi
+202,56,29,M,New Concern,Masindi
+203,71,35,M,New Concern,Masindi
+204,106,27,F,New Concern,Masindi
+205,69,59,F,New Concern,Masindi
+206,63,33,M,New Concern,Masindi
+207,92,38,M,New Concern,Masindi
+208,92,56,F,New Concern,Masindi
+209,103,82,M,New Concern,Masindi
+210,112,25,F,New Concern,Masindi
+211,92,29,M,New Concern,Masindi
+212,61,30,M,New Concern,Masindi
+213,80,52,F,New Concern,Masindi
+214,75,37,M,New Concern,Masindi
+215,71,22,F,New Concern,Masindi
+216,82,32,F,Routine,Masindi
+217,62,38,M,New Concern,Masindi
+218,73,30,M,New Concern,Masindi
+219,85,28,F,New Concern,Masindi
+220,84,83,F,New Concern,Masindi
+221,81,42,F,New Concern,Masindi
+222,60,30,F,New Concern,Masindi
+223,78,36,F,Routine,Masindi
+224,93,32,F,New Concern,Masindi
+225,79,24,F,New Concern,Masindi
+226,95,46,F,Routine,Masindi
+227,72,60,F,Routine,Masindi
+228,73,70,M,Routine,Masindi
+229,59,47,M,New Concern,Masindi
+230,85,36,F,New Concern,Masindi
+231,65,39,F,New Concern,Masindi
+232,94,59,F,New Concern,Masindi
+233,94,25,F,New Concern,Masindi
+234,84,22,F,Routine,Masindi
+235,75,29,M,New Concern,Masindi
+236,101,23,F,New Concern,Masindi
+237,77,32,M,New Concern,Masindi
+238,60,43,M,New Concern,Masindi
+239,77,35,F,New Concern,Masindi
+240,81,58,M,Routine,Masindi
+241,53,52,M,New Concern,Masindi
+242,96,88,M,Routine,Masindi
+243,95,28,F,New Concern,Masindi
+244,71,70,F,New Concern,Masindi
+245,88,33,M,New Concern,Masindi
+246,60,28,M,New Concern,Masindi
+247,87,26,F,Routine,Masindi
+248,92,23,F,Routine,Masindi
+249,81,64,M,New Concern,Masindi
+250,77,38,M,New Concern,Masindi
+251,105,33,F,New Concern,Masindi
+252,59,65,M,Routine,Masindi
+253,86,42,F,New Concern,Masindi
+254,75,39,F,New Concern,Masindi
+255,79,48,F,New Concern,Masindi
+256,84,25,M,New Concern,Masindi
+257,72,39,F,New Concern,Masindi
+258,97,33,F,New Concern,Masindi
+259,68,65,M,Routine,Masindi
+260,52,43,M,New Concern,Masindi
+261,121,25,F,Routine,Masindi
+262,87,55,F,New Concern,Masindi
+263,81,40,F,Routine,Masindi
+264,104,28,F,Routine,Masindi
+265,95,36,M,New Concern,Masindi
+266,77,30,M,New Concern,Masindi
+267,79,35,F,New Concern,Masindi
+268,77,58,M,New Concern,Masindi
+269,87,42,M,New Concern,Masindi
+270,100,52,M,Routine,Masindi
+271,82,86,M,New Concern,Masindi
+272,81,37,F,New Concern,Masindi
+273,75,43,M,Routine,Masindi
+274,80,28,F,New Concern,Masindi
+275,82,26,M,New Concern,Masindi
+276,66,72,M,Routine,Masindi
+277,69,38,M,Routine,Masindi
+278,76,26,M,New Concern,Masindi
+279,116,60,M,New Concern,Masindi
+280,108,31,M,New Concern,Masindi
+281,67,56,M,Routine,Masindi
+282,89,47,F,New Concern,Masindi
+283,112,93,M,New Concern,Masindi
+284,67,87,F,New Concern,Masindi
+285,77,46,M,New Concern,Masindi
+286,93,47,F,New Concern,Masindi
+287,38,70,F,New Concern,Masindi
+288,97,77,F,New Concern,Masindi
+289,87,34,F,Routine,Masindi
+290,88,31,F,New Concern,Masindi
+291,90,32,M,New Concern,Masindi
+292,98,27,F,New Concern,Masindi
+293,78,31,F,New Concern,Masindi
+294,124,32,F,New Concern,Masindi
+295,81,30,M,New Concern,Masindi
+296,86,23,F,New Concern,Masindi
+297,109,45,F,New Concern,Masindi
+298,90,25,F,New Concern,Masindi
+299,80,30,M,New Concern,Masindi
+300,74,34,M,New Concern,Masindi
+301,95,32,F,New Concern,Masindi
+302,85,38,M,New Concern,Masindi
+303,74,59,F,New Concern,Masindi
+304,104,43,F,Routine,Masindi
+305,85,25,F,New Concern,Masindi
+306,72,44,M,New Concern,Masindi
+307,63,44,F,New Concern,Masindi
+308,99,31,F,New Concern,Masindi
+309,66,29,M,Routine,Masindi
+310,101,22,F,New Concern,Masindi
+311,80,41,F,Routine,Masindi
+312,87,22,F,New Concern,Masindi
+313,66,33,M,New Concern,Masindi
+314,66,27,M,New Concern,Masindi
+315,95,18,F,Routine,Masindi
+316,102,30,M,Routine,Masindi
+318,81,26,F,New Concern,Masindi
+319,73,33,F,New Concern,Masindi
+320,94,45,F,New Concern,Masindi
+321,58,23,M,New Concern,Masindi
+322,81,25,M,Routine,Masindi
+323,72,59,F,Routine,Masindi
+324,82,36,M,New Concern,Masindi
+325,94,49,M,New Concern,Masindi
+326,79,30,M,New Concern,Masindi
+327,70,30,M,New Concern,Masindi
+328,70,38,F,New Concern,Masindi
+329,78,41,M,New Concern,Masindi
+330,85,35,F,New Concern,Masindi
+331,85,24,F,Routine,Masindi
+332,103,64,F,New Concern,Masindi
+333,134,25,F,Routine,Masindi
+334,73,25,F,Routine,Masindi
+335,94,20,F,New Concern,Masindi
+336,92,24,F,Routine,Masindi
+337,83,42,M,New Concern,Masindi
+338,104,50,F,New Concern,Masindi
+339,88,30,M,Routine,Masindi
+340,68,62,M,New Concern,Masindi
+341,83,36,F,Routine,Masindi
+342,74,38,M,New Concern,Masindi
+343,101,37,F,New Concern,Masindi
+344,81,37,F,Routine,Masindi
+345,99,50,M,New Concern,Masindi
+346,73,40,F,Routine,Masindi
+347,94,70,M,New Concern,Masindi
+348,103,29,F,Routine,Masindi
+349,60,25,F,New Concern,Masindi
+350,80,31,F,Routine,Masindi
+351,90,21,F,Routine,Masindi
+352,106,36,F,Routine,Masindi
+353,69,27,F,Routine,Masindi
+354,64,30,M,Routine,Masindi
+355,95,27,F,Routine,Masindi
+356,71,25,M,New Concern,Masindi
+357,83,29,F,Routine,Masindi
+358,115,30,F,New Concern,Masindi
+359,98,20,F,New Concern,Masindi
+360,112,21,F,New Concern,Masindi
+361,96,28,M,New Concern,Masindi
+362,73,49,M,New Concern,Masindi
+363,100,39,F,New Concern,Masindi
+364,81,31,F,Routine,Masindi
+365,87,25,F,New Concern,Masindi
+366,111,23,F,New Concern,Masindi
+367,78,51,F,Routine,Masindi
+368,86,31,F,Routine,Masindi
+369,91,25,F,New Concern,Masindi
+370,101,32,M,New Concern,Masindi
+371,92,40,M,New Concern,Masindi
+372,77,21,M,New Concern,Masindi
+373,77,26,F,New Concern,Masindi
+374,81,52,M,New Concern,Masindi
+375,83,38,M,New Concern,Masindi
+376,76,56,M,New Concern,Masindi
+377,99,31,F,New Concern,Masindi
+378,90,29,M,New Concern,Masindi
+379,74,71,M,New Concern,Masindi
+380,75,50,F,New Concern,Masindi
+381,66,75,M,New Concern,Masindi
+382,82,25,F,Routine,Masindi
+383,85,25,F,New Concern,Masindi
+384,71,62,M,Routine,Masindi
+385,59,74,M,New Concern,Masindi
+386,80,22,F,Routine,Masindi
+387,88,28,F,Routine,Masindi
+388,77,34,F,New Concern,Masindi
+389,63,38,F,New Concern,Masindi
+390,71,33,M,New Concern,Masindi
+391,97,27,F,New Concern,Masindi
+392,96,20,F,New Concern,Masindi
+393,108,24,F,New Concern,Masindi
+394,105,52,M,New Concern,Masindi
+395,78,54,F,New Concern,Masindi
+396,79,26,F,New Concern,Masindi
+397,98,38,F,New Concern,Masindi
+398,94,63,F,Routine,Masindi
+399,97,36,M,New Concern,Masindi
+400,95,34,M,New Concern,Masindi
+401,78,26,M,New Concern,Masindi
+402,86,38,F,Routine,Masindi
+403,103,58,M,New Concern,Masindi
+404,86,20,F,Routine,Masindi
+405,76,48,F,New Concern,Masindi
+406,81,47,F,Routine,Masindi
+407,73,36,F,New Concern,Masindi
+408,87,24,F,Routine,Masindi
+409,86,83,F,New Concern,Masindi
+410,84,64,F,New Concern,Masindi
+411,103,37,F,New Concern,Masindi
+412,64,60,F,New Concern,Masindi
+413,107,18,F,Routine,Masindi
+414,77,51,F,Routine,Masindi
+415,85,46,M,New Concern,Masindi
+416,114,33,F,Routine,Masindi
+417,84,29,F,New Concern,Masindi
+418,66,53,F,New Concern,Masindi
+419,63,56,M,New Concern,Masindi
+420,60,30,F,New Concern,Masindi
+421,92,36,M,New Concern,Masindi
+422,80,55,F,Routine,Masindi
+423,85,37,F,New Concern,Masindi
+424,82,35,F,Routine,Masindi
+425,71,50,M,New Concern,Masindi
+426,93,43,M,Routine,Masindi
+427,74,48,M,New Concern,Masindi
+428,91,38,F,Routine,Masindi
+429,83,32,F,New Concern,Masindi
+430,77,40,F,New Concern,Masindi
+431,67,30,F,New Concern,Masindi
+432,68,40,F,New Concern,Masindi
+433,61,37,M,New Concern,Masindi
+434,91,24,F,New Concern,Masindi
+435,90,26,F,Routine,Masindi
+436,57,23,M,New Concern,Masindi
+437,78,40,F,New Concern,Masindi
+438,94,27,F,Routine,Masindi
+439,56,33,M,New Concern,Masindi
+440,75,57,M,New Concern,Masindi
+441,72,35,F,New Concern,Masindi
+442,69,32,M,Routine,Masindi
+443,94,39,F,New Concern,Masindi
+444,80,36,M,New Concern,Masindi
+445,92,32,F,New Concern,Masindi
+446,75,42,F,New Concern,Masindi
+447,82,34,F,Routine,Masindi
+448,76,41,F,New Concern,Masindi
+449,99,22,F,Routine,Masindi
+450,69,34,M,New Concern,Masindi
+451,80,21,M,New Concern,Masindi
+452,87,26,F,New Concern,Masindi
+453,112,51,M,New Concern,Masindi
+454,67,38,F,Routine,Masindi
+455,96,18,M,New Concern,Masindi
+456,78,36,F,New Concern,Masindi
+457,84,25,F,Routine,Masindi
+458,76,32,M,New Concern,Masindi
+459,95,30,M,Routine,Masindi
+460,69,42,F,New Concern,Masindi
+461,110,22,F,New Concern,Masindi
+462,58,50,M,New Concern,Masindi
+463,76,26,F,Routine,Masindi
+464,100,32,F,Routine,Masindi
+465,69,52,F,New Concern,Masindi
+466,77,49,M,New Concern,Masindi
+467,90,31,M,New Concern,Masindi
+468,59,34,M,New Concern,Masindi
+469,72,35,F,New Concern,Masindi
+470,72,41,F,New Concern,Masindi
+471,121,42,F,New Concern,Masindi
+472,71,52,F,Routine,Masindi
+473,92,74,M,New Concern,Masindi
+474,78,22,F,Routine,Masindi
+475,68,30,F,New Concern,Masindi
+476,81,45,F,New Concern,Masindi
+477,100,38,M,New Concern,Masindi
+478,85,54,M,New Concern,Masindi
+479,85,29,F,New Concern,Masindi
+480,72,35,M,New Concern,Masindi
+481,99,45,M,New Concern,Masindi
+482,85,68,F,New Concern,Masindi
+483,78,47,M,New Concern,Masindi
+484,100,44,F,New Concern,Masindi
+485,91,20,F,Routine,Masindi
+486,81,50,M,New Concern,Masindi
+487,76,24,M,New Concern,Masindi
+488,94,22,F,Routine,Masindi
+489,96,37,F,New Concern,Masindi
+490,65,49,M,Routine,Masindi
+491,101,29,F,Routine,Masindi
+492,89,19,F,Routine,Masindi
+493,113,35,F,Routine,Masindi
+494,91,39,M,New Concern,Masindi
+495,57,46,F,New Concern,Masindi
+496,70,48,M,Routine,Masindi
+497,80,23,F,New Concern,Masindi
+498,71,28,F,Routine,Masindi
+499,111,32,F,Routine,Masindi
+500,70,37,F,New Concern,Masindi
+501,84,53,F,New Concern,Masindi
+502,60,59,F,New Concern,Masindi
+503,95,40,F,New Concern,Masindi
+504,89,64,M,New Concern,Masindi
+505,107,42,F,Routine,Masindi
+506,75,52,M,New Concern,Masindi
+507,87,25,F,New Concern,Masindi
+508,56,43,F,New Concern,Masindi
+509,75,38,M,New Concern,Masindi
+510,76,85,M,New Concern,Masindi
+511,83,23,M,New Concern,Masindi
+512,53,29,F,New Concern,Masindi
+513,118,28,F,New Concern,Masindi
+514,69,93,M,New Concern,Masindi
+515,66,66,M,New Concern,Masindi
+516,82,39,F,New Concern,Masindi
+517,88,45,F,New Concern,Masindi
+518,103,22,F,New Concern,Masindi
+519,79,34,F,New Concern,Masindi
+520,85,29,F,Routine,Masindi
+521,96,51,M,Routine,Masindi
+522,88,30,F,New Concern,Masindi
+523,78,73,F,Routine,Masindi
+524,69,70,F,New Concern,Masindi
+525,66,63,F,New Concern,Masindi
+526,101,22,F,Routine,Masindi
+527,112,22,F,New Concern,Masindi
+528,109,37,M,New Concern,Masindi
+529,115,27,F,New Concern,Masindi
+530,68,39,F,Routine,Masindi
+531,65,68,F,New Concern,Masindi
+532,89,46,F,New Concern,Masindi
+533,78,83,F,Routine,Masindi
+534,74,67,F,New Concern,Masindi
+535,83,38,M,New Concern,Masindi
+536,94,50,F,New Concern,Masindi
+537,83,62,M,New Concern,Masindi
+538,86,21,F,New Concern,Masindi
+539,97,21,F,Routine,Masindi
+540,84,36,F,New Concern,Masindi
+541,75,80,M,New Concern,Masindi
+542,103,37,F,Routine,Masindi
+543,97,31,M,New Concern,Masindi
+544,107,27,F,New Concern,Masindi
+545,62,85,M,New Concern,Masindi
+546,92,61,M,New Concern,Masindi
+547,97,20,F,Routine,Masindi
+548,93,31,M,New Concern,Masindi
+549,75,59,F,Routine,Masindi
+550,76,65,F,New Concern,Masindi
+551,103,39,M,New Concern,Masindi
+552,112,56,F,New Concern,Masindi
+553,75,21,M,New Concern,Masindi
+554,71,59,M,New Concern,Masindi
+555,94,24,F,New Concern,Masindi
+556,112,35,F,Routine,Masindi
+557,68,39,M,New Concern,Masindi
+558,103,33,F,Routine,Masindi
+559,82,32,M,New Concern,Masindi
+560,108,95,M,New Concern,Masindi
+561,83,60,F,New Concern,Masindi
+562,103,29,F,New Concern,Masindi
+563,73,35,M,New Concern,Masindi
+564,113,67,F,New Concern,Masindi
+565,86,20,M,New Concern,Masindi
+566,79,40,M,New Concern,Masindi
+567,118,20,F,New Concern,Masindi
+568,85,26,F,New Concern,Masindi
+569,80,45,F,New Concern,Masindi
+570,85,40,M,Routine,Masindi
+571,81,36,F,Routine,Masindi
+572,91,36,F,Routine,Masindi
+573,90,43,F,Routine,Masindi
+574,83,26,F,New Concern,Masindi
+575,105,27,F,Routine,Masindi
+576,79,69,M,New Concern,Masindi
+577,69,34,M,New Concern,Masindi
+578,99,39,M,New Concern,Masindi
+579,85,59,M,Routine,Masindi
+580,104,36,F,Routine,Masindi
+581,69,51,M,New Concern,Masindi
+582,98,30,F,Routine,Masindi
+583,97,42,M,New Concern,Masindi
+584,75,29,M,New Concern,Masindi
+585,92,21,F,New Concern,Masindi
+586,88,60,F,Routine,Masindi
+587,78,70,F,Routine,Masindi
+588,98,40,F,Routine,Masindi
+589,68,28,M,Routine,Masindi
+590,73,73,F,Routine,Masindi
+591,80,32,M,New Concern,Masindi
+592,67,35,M,New Concern,Masindi
+593,69,31,M,New Concern,Masindi
+594,85,34,F,New Concern,Masindi
+595,89,31,F,Routine,Masindi
+596,95,43,F,Routine,Masindi
+597,52,60,M,Routine,Masindi
+598,64,26,F,Routine,Masindi
+599,84,25,F,New Concern,Masindi
+600,95,47,F,New Concern,Masindi
+601,58,60,M,Routine,Masindi
+602,78,57,F,New Concern,Masindi
+603,78,25,F,New Concern,Masindi
+604,75,46,F,Routine,Masindi
+605,66,48,M,New Concern,Masindi
+606,83,34,M,Routine,Masindi
+607,96,35,F,New Concern,Masindi
+608,69,36,F,Routine,Masindi
+609,106,23,F,Routine,Masindi
+610,67,27,M,New Concern,Masindi
+611,98,63,F,New Concern,Masindi
+612,112,26,F,Routine,Masindi
+613,94,43,M,New Concern,Masindi
+614,98,29,M,New Concern,Masindi
+615,88,33,F,Routine,Masindi
+616,108,63,F,New Concern,Masindi
+617,74,50,F,New Concern,Masindi
+618,95,24,F,Routine,Masindi
+619,109,60,F,New Concern,Masindi
+620,90,42,M,New Concern,Masindi
+621,97,31,F,New Concern,Masindi
+622,92,50,F,New Concern,Masindi
+623,72,30,F,New Concern,Masindi
+624,83,45,F,New Concern,Masindi
+625,53,33,M,New Concern,Masindi
+626,84,83,F,New Concern,Masindi
+627,90,35,F,New Concern,Masindi
+628,98,36,F,Routine,Masindi
+629,77,33,F,New Concern,Masindi
+630,80,23,M,Routine,Masindi
+631,81,24,F,New Concern,Masindi
+632,99,24,F,New Concern,Masindi
+633,95,29,F,Routine,Masindi
+634,92,39,F,Routine,Masindi
+635,92,35,M,New Concern,Masindi
+636,86,39,F,Routine,Masindi
+637,90,34,F,New Concern,Masindi
+638,110,26,M,New Concern,Masindi
+639,62,28,F,Routine,Masindi
+640,85,25,F,New Concern,Masindi
+641,67,37,M,New Concern,Masindi
+642,158,27,M,New Concern,Masindi
+643,96,30,F,New Concern,Masindi
+644,75,32,M,New Concern,Masindi
+645,77,32,M,New Concern,Masindi
+646,69,35,F,New Concern,Masindi
+647,83,66,F,New Concern,Masindi
+648,71,55,M,New Concern,Masindi
+649,138,27,M,New Concern,Masindi
+651,68,51,M,New Concern,Masindi
+652,100,30,F,New Concern,Masindi
+653,77,67,F,Routine,Masindi
+654,75,24,F,New Concern,Masindi
+655,109,23,F,New Concern,Masindi
+656,95,53,F,New Concern,Masindi
+657,90,25,F,New Concern,Masindi
+658,116,32,F,New Concern,Masindi
+659,79,59,M,New Concern,Masindi
+660,78,30,M,Routine,Masindi
+661,111,21,F,Routine,Masindi
+662,88,65,M,New Concern,Masindi
+663,95,27,F,Routine,Masindi
+664,99,41,M,New Concern,Masindi
+665,87,51,F,Routine,Masindi
+666,115,28,F,New Concern,Masindi
+667,92,22,M,Routine,Masindi
+668,120,19,F,New Concern,Masindi
+669,91,25,F,New Concern,Masindi
+670,92,37,M,New Concern,Masindi
+671,73,29,M,New Concern,Masindi
+672,95,36,M,New Concern,Masindi
+673,87,36,F,New Concern,Masindi
+674,102,25,F,Routine,Masindi
+675,90,21,F,Routine,Masindi
+676,82,30,M,New Concern,Masindi
+677,68,28,M,New Concern,Masindi
+678,105,38,F,Routine,Masindi
+679,90,37,F,New Concern,Masindi
+680,107,50,M,Routine,Masindi
+681,107,41,M,New Concern,Masindi
+682,94,25,F,New Concern,Masindi
+683,52,29,M,New Concern,Masindi
+684,74,71,M,Routine,Masindi
+685,99,43,F,New Concern,Masindi
+686,85,23,F,Routine,Masindi
+688,81,47,M,New Concern,Masindi
+689,99,35,F,New Concern,Masindi
+690,71,26,F,Routine,Masindi
+691,113,24,F,Routine,Masindi
+692,103,22,F,New Concern,Masindi
+693,88,48,F,New Concern,Masindi
+695,68,37,F,Routine,Masindi
+696,77,39,M,New Concern,Masindi
+697,119,22,F,Routine,Masindi
+698,138,85,M,Routine,Masindi
+699,60,32,F,New Concern,Masindi
+700,103,25,F,New Concern,Masindi
+701,83,45,M,New Concern,Masindi
+702,72,26,M,New Concern,Masindi
+703,78,25,M,New Concern,Masindi
+704,75,34,F,New Concern,Masindi
+705,66,34,M,New Concern,Masindi
+706,74,39,M,New Concern,Masindi
+707,67,64,M,Routine,Masindi
+708,88,22,F,New Concern,Masindi
+709,89,37,M,New Concern,Masindi
+710,101,39,F,New Concern,Masindi
+711,96,40,F,New Concern,Masindi
+712,93,32,F,Routine,Masindi
+713,96,59,F,Routine,Masindi
+714,99,35,F,Routine,Masindi
+715,81,46,F,New Concern,Masindi
+716,80,35,F,Routine,Masindi
+717,105,47,F,New Concern,Masindi
+718,86,69,F,New Concern,Masindi
+719,111,29,F,Routine,Masindi
+720,89,32,F,New Concern,Masindi
+721,110,23,F,New Concern,Masindi
+722,87,22,F,Routine,Masindi
+723,101,30,F,New Concern,Masindi
+724,80,29,F,New Concern,Masindi
+725,92,37,M,New Concern,Masindi
+726,101,34,M,New Concern,Masindi
+727,70,49,M,New Concern,Masindi
+728,93,57,M,New Concern,Masindi
+729,90,30,F,New Concern,Masindi
+730,99,48,M,Routine,Masindi
+731,79,57,F,New Concern,Masindi
+732,70,46,M,New Concern,Masindi
+733,90,19,F,Routine,Masindi
+734,88,22,F,Routine,Masindi
+735,89,39,F,New Concern,Masindi
+736,79,23,F,New Concern,Masindi
+737,93,33,F,New Concern,Masindi
+738,68,30,M,New Concern,Masindi
+739,91,31,F,Routine,Masindi
+740,97,28,F,New Concern,Masindi
+741,81,29,F,Routine,Masindi
+742,110,20,F,Routine,Masindi
+743,59,32,F,Routine,Masindi
+744,96,19,F,New Concern,Masindi
+745,111,26,F,Routine,Masindi
+746,77,56,F,New Concern,Masindi
+747,68,32,M,New Concern,Masindi
+748,85,32,M,New Concern,Masindi
+749,87,37,F,Routine,Masindi
+750,101,58,F,New Concern,Masindi
+751,95,33,F,New Concern,Masindi
+753,80,39,F,New Concern,Masindi
+754,69,28,F,Routine,Masindi
+755,55,72,F,Routine,Masindi
+756,97,48,F,New Concern,Masindi
+757,78,43,F,New Concern,Masindi
+758,68,38,F,New Concern,Masindi
+759,98,50,M,New Concern,Masindi
+760,107,48,F,New Concern,Masindi
+761,64,33,M,New Concern,Masindi
+762,83,56,F,New Concern,Masindi
+763,66,53,M,New Concern,Masindi
+764,83,41,F,New Concern,Masindi
+765,81,45,M,New Concern,Masindi
+766,87,30,M,New Concern,Masindi
+767,94,69,M,New Concern,Masindi
+768,108,35,M,New Concern,Masindi
+769,68,33,M,New Concern,Masindi
+770,73,56,F,New Concern,Masindi
+771,85,24,M,Routine,Masindi
+772,122,20,F,Routine,Masindi
+773,87,64,M,New Concern,Masindi
+774,103,51,M,New Concern,Masindi
+775,97,31,F,Routine,Masindi
+776,118,58,F,Routine,Masindi
+777,73,29,F,New Concern,Masindi
+778,80,59,F,New Concern,Masindi
+779,81,81,M,New Concern,Masindi
+780,110,31,F,New Concern,Masindi
+781,83,35,M,New Concern,Masindi
+782,95,60,M,New Concern,Masindi
+783,98,36,F,Routine,Masindi
+784,94,24,F,New Concern,Masindi
+785,79,33,F,Routine,Masindi
+786,81,31,M,Routine,Masindi
+787,85,30,M,New Concern,Masindi
+788,76,28,F,New Concern,Masindi
+790,79,73,F,Routine,Masindi
+791,93,24,F,New Concern,Masindi
+792,60,29,F,Routine,Masindi
+793,85,29,F,New Concern,Masindi
+794,76,38,M,New Concern,Masindi
+795,90,30,F,New Concern,Masindi
+796,85,22,M,New Concern,Masindi
+797,82,67,M,Routine,Masindi
+798,77,38,F,New Concern,Masindi
+799,102,38,M,New Concern,Masindi
+800,83,24,F,New Concern,Masindi
+801,95,50,M,New Concern,Masindi
+802,93,20,F,Routine,Masindi
+803,89,30,F,Routine,Masindi
+804,100,45,M,New Concern,Masindi
+805,87,54,M,New Concern,Masindi
+806,75,48,M,Routine,Masindi
+807,76,63,M,New Concern,Masindi
+808,103,25,F,New Concern,Masindi
+809,96,30,M,New Concern,Masindi
+810,95,34,M,New Concern,Masindi
+811,90,38,F,New Concern,Masindi
+812,63,37,M,New Concern,Masindi
+813,94,49,M,New Concern,Masindi
+814,99,38,M,New Concern,Masindi
+815,77,35,M,New Concern,Masindi
+816,88,24,F,New Concern,Masindi
+817,73,32,F,New Concern,Masindi
+818,104,65,F,New Concern,Masindi
+819,85,37,M,New Concern,Masindi
+820,66,35,F,Routine,Masindi
+821,97,64,M,Routine,Masindi
+822,85,28,F,Routine,Masindi
+823,101,33,F,New Concern,Masindi
+824,94,68,F,New Concern,Masindi
+825,107,26,F,New Concern,Masindi
+826,91,40,M,New Concern,Masindi
+827,67,32,M,New Concern,Masindi
+828,87,23,F,New Concern,Masindi
+829,82,32,M,New Concern,Masindi
+830,87,29,F,New Concern,Masindi
+831,87,37,M,New Concern,Masindi
+832,145,43,M,New Concern,Masindi
+833,79,46,F,New Concern,Masindi
+834,102,29,F,New Concern,Masindi
+835,126,59,M,New Concern,Masindi
+836,99,28,F,New Concern,Masindi
+837,81,27,F,Routine,Masindi
+838,73,55,F,New Concern,Masindi
+839,98,27,F,Routine,Masindi
+840,107,40,F,New Concern,Masindi
+841,81,40,M,New Concern,Masindi
+842,99,27,F,New Concern,Masindi
+843,80,34,M,New Concern,Masindi
+844,78,38,F,New Concern,Masindi
+845,86,47,M,New Concern,Masindi
+846,85,38,F,Routine,Masindi
+847,68,32,M,New Concern,Masindi
+848,77,41,M,New Concern,Masindi
+849,80,60,M,New Concern,Masindi
+850,75,38,F,Routine,Masindi
+851,64,45,M,New Concern,Masindi
+852,87,50,M,New Concern,Masindi
+853,78,26,F,New Concern,Masindi
+854,102,29,F,New Concern,Masindi
+855,90,50,F,New Concern,Masindi
+856,84,48,M,New Concern,Masindi
+857,57,57,M,New Concern,Masindi
+858,81,37,F,New Concern,Masindi
+859,67,28,F,New Concern,Masindi
+860,102,30,F,New Concern,Masindi
+861,79,24,F,New Concern,Masindi
+862,79,75,M,New Concern,Masindi
+863,80,49,M,Routine,Masindi
+864,76,34,F,New Concern,Masindi
+865,84,46,M,New Concern,Masindi
+866,101,28,F,New Concern,Masindi
+867,83,60,F,Routine,Masindi
+868,101,40,F,New Concern,Masindi
+869,46,89,M,New Concern,Masindi
+870,84,54,M,Routine,Masindi
+871,44,30,M,New Concern,Masindi
+872,103,34,F,New Concern,Masindi
+873,75,35,F,New Concern,Masindi
+874,97,22,F,Routine,Masindi
+875,79,37,M,New Concern,Masindi
+876,84,30,F,New Concern,Masindi
+877,66,59,M,New Concern,Masindi
+878,91,40,M,New Concern,Masindi
+879,97,23,F,New Concern,Masindi
+880,93,28,F,Routine,Masindi
+881,83,32,M,New Concern,Masindi
+882,82,39,F,Routine,Masindi
+883,88,54,M,Routine,Masindi
+884,77,39,F,Routine,Masindi
+885,58,19,M,Routine,Masindi
+886,114,83,M,New Concern,Masindi
+887,76,30,F,Routine,Masindi
+888,97,28,F,New Concern,Masindi
+889,76,48,F,New Concern,Masindi
+890,74,44,M,New Concern,Masindi
+891,75,29,F,New Concern,Masindi
+892,88,26,F,Routine,Masindi
+893,87,60,F,New Concern,Masindi
+894,70,46,M,New Concern,Masindi
+895,83,32,F,New Concern,Masindi
+896,90,62,M,Routine,Masindi
+897,100,32,F,Routine,Masindi
+898,103,19,F,New Concern,Masindi
+899,61,30,M,New Concern,Masindi
+900,99,26,F,New Concern,Masindi
+901,92,34,F,Routine,Masindi
+902,79,43,F,New Concern,Masindi
+903,95,31,F,Routine,Masindi
+904,110,24,F,New Concern,Masindi
+905,84,28,F,New Concern,Masindi
+906,85,28,F,New Concern,Masindi
+907,90,45,F,New Concern,Masindi
+908,101,19,F,New Concern,Masindi
+909,94,57,M,New Concern,Masindi
+910,103,41,F,New Concern,Masindi
+912,103,19,F,New Concern,Masindi
+913,129,40,M,New Concern,Masindi
+914,87,27,F,Routine,Masindi
+915,116,27,F,Routine,Masindi
+916,102,40,F,New Concern,Masindi
+917,77,32,F,New Concern,Masindi
+918,89,56,M,New Concern,Masindi
+919,81,29,F,New Concern,Masindi
+920,71,23,M,New Concern,Masindi
+921,101,73,M,New Concern,Masindi
+922,88,29,M,New Concern,Masindi
+923,63,36,M,New Concern,Masindi
+924,96,37,M,New Concern,Masindi
+925,108,53,F,Routine,Masindi
+926,66,28,F,Routine,Masindi
+927,86,28,F,New Concern,Masindi
+929,104,29,F,New Concern,Masindi
+930,75,51,F,New Concern,Masindi
+932,71,75,M,Routine,Masindi
+933,79,53,F,New Concern,Masindi
+934,66,34,F,New Concern,Masindi
+935,90,58,F,New Concern,Masindi
+936,97,33,F,New Concern,Masindi
+937,81,24,F,New Concern,Masindi
+938,66,52,M,New Concern,Masindi
+939,61,23,F,New Concern,Masindi
+940,90,31,M,New Concern,Masindi
+941,107,61,M,New Concern,Masindi
+942,59,22,F,Routine,Masindi
+944,85,19,M,New Concern,Masindi
+945,73,25,F,New Concern,Masindi
+946,86,25,F,Routine,Masindi
+947,84,29,M,Routine,Masindi
+948,57,27,F,New Concern,Masindi
+949,119,35,F,New Concern,Masindi
+950,94,24,F,Routine,Masindi
+951,103,31,F,New Concern,Masindi
+952,74,28,F,Routine,Masindi
+953,77,26,F,Routine,Masindi
+954,72,36,M,New Concern,Masindi
+955,82,68,F,New Concern,Masindi
+956,131,26,F,New Concern,Masindi
+957,70,24,F,Routine,Masindi
+958,102,35,M,New Concern,Masindi
+959,102,27,F,Routine,Masindi
+960,116,29,M,New Concern,Masindi
+961,60,64,F,New Concern,Masindi
+962,68,40,M,Routine,Masindi
+963,72,24,F,Routine,Masindi
+964,139,21,F,Routine,Masindi
+965,96,43,F,New Concern,Masindi
+966,71,38,M,New Concern,Masindi
+967,87,38,F,New Concern,Masindi
+968,85,25,F,New Concern,Masindi
+969,89,20,M,New Concern,Masindi
+970,85,88,M,New Concern,Masindi
+972,85,37,F,New Concern,Masindi
+974,73,22,F,New Concern,Masindi
+975,118,38,F,New Concern,Masindi
+976,91,38,M,New Concern,Masindi
+977,98,83,F,New Concern,Masindi
+978,80,61,M,New Concern,Masindi
+979,99,18,M,New Concern,Masindi
+980,79,44,F,New Concern,Masindi
+981,80,72,F,New Concern,Masindi
+982,104,45,F,New Concern,Masindi
+983,87,55,M,New Concern,Masindi
+984,77,22,F,Routine,Masindi
+985,96,22,F,New Concern,Masindi
+986,107,40,F,Routine,Masindi
+987,77,36,F,New Concern,Masindi
+988,107,74,F,New Concern,Masindi
+989,83,35,M,New Concern,Masindi
+990,82,36,M,New Concern,Masindi
+991,83,45,F,New Concern,Masindi
+992,107,32,M,New Concern,Masindi
+993,107,23,F,Routine,Masindi
+994,76,41,M,New Concern,Masindi
+995,75,38,M,New Concern,Masindi
+996,94,61,F,Routine,Masindi
+997,64,53,M,New Concern,Masindi
+998,74,27,F,New Concern,Masindi
+999,106,32,M,New Concern,Masindi
+1000,90,18,F,New Concern,Masindi
+1001,85,25,M,Routine,Masindi
+1002,73,36,F,New Concern,Masindi
+1003,79,36,F,New Concern,Masindi
+1004,99,28,F,New Concern,Masindi
+1005,121,34,F,New Concern,Masindi
+1006,73,51,F,Routine,Masindi
+1007,88,46,F,New Concern,Masindi
+1008,53,19,F,New Concern,Masindi
+1009,89,72,F,Routine,Masindi
+1010,62,61,M,Routine,Masindi
+1011,60,46,M,New Concern,Masindi
+1012,88,29,F,Routine,Masindi
+1013,92,59,F,New Concern,Masindi
+1015,87,21,F,Routine,Masindi
+1016,102,30,F,New Concern,Masindi
+1017,69,29,F,New Concern,Masindi
+1018,111,22,M,New Concern,Masindi
+1020,114,46,M,New Concern,Masindi
+1021,111,54,F,New Concern,Masindi
+1022,80,43,F,Routine,Masindi
+1023,73,56,F,New Concern,Masindi
+1024,83,65,M,New Concern,Masindi
+1025,98,24,M,New Concern,Masindi
+1026,129,30,M,New Concern,Masindi
+1027,82,26,M,New Concern,Masindi
+1028,77,28,F,New Concern,Masindi
+1029,93,55,M,Routine,Masindi
+1030,99,28,F,New Concern,Masindi
+1031,93,21,M,New Concern,Masindi
+1032,75,40,F,New Concern,Masindi
+1033,106,28,F,New Concern,Masindi
+1034,75,60,M,Routine,Masindi
+1035,101,26,F,New Concern,Masindi
+1036,94,28,M,New Concern,Masindi
+1037,73,35,M,New Concern,Masindi
+1038,129,32,M,New Concern,Masindi
+1039,59,40,F,Routine,Masindi
+1040,99,18,F,New Concern,Masindi
+1041,77,50,M,Routine,Masindi
+1042,76,24,M,New Concern,Masindi
+1043,69,35,M,New Concern,Masindi
+1044,77,43,M,New Concern,Masindi
+1045,80,48,M,Routine,Masindi
+1046,82,45,F,Routine,Masindi
+1047,93,35,M,New Concern,Masindi
+1048,86,40,M,New Concern,Masindi
+1049,71,32,M,Routine,Masindi
+1050,80,18,F,Routine,Masindi
+1051,100,68,F,Routine,Masindi
+1052,110,28,M,New Concern,Masindi
+1053,87,26,F,New Concern,Masindi
+1054,79,23,F,New Concern,Masindi
+1055,102,61,M,New Concern,Masindi
+1056,82,52,F,New Concern,Masindi
+1057,95,42,M,Routine,Masindi
+1058,77,34,F,Routine,Masindi
+1059,100,42,F,New Concern,Masindi
+1060,67,19,M,Routine,Masindi
+1061,91,50,F,New Concern,Masindi
+1062,124,24,F,New Concern,Masindi
+1063,75,28,F,Routine,Masindi
+1064,78,31,F,Routine,Masindi
+1065,78,28,F,New Concern,Masindi
+1066,67,35,M,Routine,Masindi
+1067,70,34,F,New Concern,Masindi
+1069,67,28,M,New Concern,Masindi
+1070,66,28,F,New Concern,Masindi
+1071,79,21,M,New Concern,Masindi
+1072,92,30,M,New Concern,Masindi
+1073,75,54,M,Routine,Masindi
+1074,99,26,M,New Concern,Masindi
+1075,89,27,M,New Concern,Masindi
+1076,90,85,M,Routine,Masindi
+1077,99,23,M,New Concern,Masindi
+1078,93,46,F,New Concern,Masindi
+1079,68,75,M,New Concern,Masindi
